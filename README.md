@@ -1,4 +1,5 @@
 # PDF Active-Content Test Generator
+![tests](https://github.com/RahilSahu/pdf-active-content-test-generator/actions/workflows/tests.yml/badge.svg)
 
 A small, zero-dependency Python tool that builds a minimal, valid PDF
 from scratch (raw PDF objects with correctly computed cross-reference
